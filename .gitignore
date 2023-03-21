@@ -1,1 +1,5 @@
 /.idea/
+/models/DNN.h5
+/models/ExtraTrees.pickle
+/models/RandomForest.pickle
+/models/XGBoost.pickle

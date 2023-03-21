@@ -8,3 +8,9 @@ Using one-hot encoding technique: OnehotEncoder from Sci-kit learn package.
 
 Using standardization method: StandardScaler from Sci-kit learn package.
 
+## Binary data (land, logged_in,...)
+
+Keep it as is
+
+
+
