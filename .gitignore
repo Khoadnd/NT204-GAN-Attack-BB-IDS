@@ -1,5 +1,4 @@
 /.idea/
-/models/DNN.h5
-/models/ExtraTrees.pickle
-/models/RandomForest.pickle
-/models/XGBoost.pickle
+/models/
+/dataset/MNIST/
+/__pycache__/
