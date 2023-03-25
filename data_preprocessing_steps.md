@@ -12,5 +12,8 @@ Using standardization method: StandardScaler from Sci-kit learn package.
 
 Keep it as is
 
+## Features set in NSL KDD
+
+![[featureset.png]]
 
 
