@@ -23,5 +23,8 @@ features_category = ["protocol_type", "service", "flag"]
 content_feature = ['hot', 'num_failed_logins', 'logged_in', 'num_compromised', 'root_shell', 'su_attempted', 'num_root',
                    'num_file_creations', 'num_shells', 'num_access_files', 'num_outbound_cmds', 'is_host_login', 'is_guest_login']
 
+normalize_these = ['hot', 'num_failed_logins', 'num_compromised', 'root_shell', 'su_attempted', 'num_root',
+                   'num_file_creations', 'num_shells', 'num_access_files', 'num_outbound_cmds']
+
 content_binary_feature = ['logged_in',
                           'root_shell', 'is_host_login', 'is_guest_login']
